@@ -1,6 +1,3 @@
-Got it — you want a **Day 1 assignment** where students create a simple **Newspaper Article Page** using **only 3 TextView components** (NO buttons, NO logic, NO Java changes).
-
-Here is the clean, simple assignment exactly as needed:
 
 ---
 
@@ -83,11 +80,3 @@ Students MUST:
 Add a 4th TextView showing the date (e.g., “Dec 8, 2025”).
 
 ---
-
-If you want, I can also provide:
-📌 Sample XML solution
-📌 Assignment PDF
-📌 A graphical preview image of the expected output
-📌 A tougher version for Day 2
-
-Just tell me!
